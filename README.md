@@ -52,13 +52,13 @@ Decrypted ASCII values: [68, 104, 104, 107]
 Characters: Dhhh
 ```
 #### Contributing
-Feel free to fork the repository and submit pull requests with improvements or bug fixes.
+- Feel free to fork the repository and submit pull requests with improvements or bug fixes.
 
 #### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- This project is licensed under the MIT License - see the LICENSE file for details.
 
 #### Acknowledgements
-Python programming language for implementing the solution.
+- Python programming language for implementing the solution.
 
 #### Contact
-For any questions, you can reach me at smtkanchana66@gmail.com.
+- For any questions, you can reach me at smtkanchana66@gmail.com.
